@@ -1,4 +1,4 @@
-# JobSearch App using React Native expo
+# JobSearch App Showcase
 
 ![Picture1](https://github.com/RajalakshmiR24/JobSearch-Showcase/assets/127002476/3ba226a8-2a07-4946-9a5c-d6af0d99ea35)
 
