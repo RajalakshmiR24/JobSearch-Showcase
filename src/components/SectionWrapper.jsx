@@ -25,7 +25,7 @@ const SectionWrapper = ({ title, description, showBtn, mockupImg, banner, revers
           {showBtn && (
             <Button 
               assetUrl={assets.expo}
-              link="https://drive.google.com/file/d/1NxXf5Mzcu32sWaIQq8ZzhTBhIdcqNhea/view?usp=drive_link"
+              link="https://drive.google.com/file/d/1NxXf5Mzcu32sWaIQq8ZzhTBhIdcqNhea/view?usp=sharing"
             />
           )}
         </div>
